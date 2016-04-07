@@ -8,3 +8,9 @@ Difficulty: Retarget Every Block
 DECENTRALIZED
 
 www.CoinExchange.io Confirmation Time: 10
+
+Market Capitalization
+http://coinmarketcap.com/currencies/cabbage/
+
+Social
+https://twitter.com/CabbageTech
