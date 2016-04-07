@@ -6,3 +6,5 @@ Block Time [in seconds]: 120
 Confirmation Time: 3
 Difficulty: Retarget Every Block
 DECENTRALIZED
+
+www.CoinExchange.io Confirmation Time: 10
