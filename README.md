@@ -6,4 +6,3 @@ Block Time [in seconds]: 120
 Confirmation Time: 3
 Difficulty: Retarget Every Block
 DECENTRALIZED
-James Chen
