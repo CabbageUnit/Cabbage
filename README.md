@@ -1,7 +1,7 @@
 Cabbáge Unit Specs
 Unit Ticker Symbol: $CAB
 Unit Type: Pure PoS
-Total Unit Supply: 10499999.99999999
+Total Token Supply: 10499996
 Block Time [in seconds]: 120
 Confirmation Time: 3
 Difficulty: Retarget Every Block
